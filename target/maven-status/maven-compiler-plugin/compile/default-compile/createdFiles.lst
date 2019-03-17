@@ -1,0 +1,10 @@
+com\sappy\challengerest\bonus\Log4J2AsyncLogger.class
+com\sappy\challengerest\exception\NotFoundException.class
+com\sappy\challengerest\view\UserView$Public.class
+com\sappy\challengerest\controller\UserController.class
+com\sappy\challengerest\model\User.class
+com\sappy\challengerest\view\UserView$Internal.class
+com\sappy\challengerest\ChallengerestApplication.class
+com\sappy\challengerest\init\LoadDatabase.class
+com\sappy\challengerest\jpa\UserRepo.class
+com\sappy\challengerest\view\UserView.class
